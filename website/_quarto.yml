@@ -3,7 +3,7 @@ project:
   output-dir: ../docs
 
 website:
-  title: "Synthetic Images"
+  title: "Sistema de localização SLAM"
 #   navbar:
 #     left:
 #       - href: index.qmd
